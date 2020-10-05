@@ -1,0 +1,31 @@
+
+s s s s
+p p s s
+i s p s
+s s s s s s s s
+a s s s p s s
+i s s a p s p s s s s s
+a a a p p p p p p s s s
+s s s s p p i i i s s s a a a
+s s s s s s s s s s i i i a a a a a b
+a p p a p p a p p i i i i i
+s s s i i p p p a a a s s i i p p
+p p p p p i i i i i a a a a a
+s s s s s p p p p p a a a a a i i i i i i s s s s s
+s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s
+p p p p p a a i i i p p p p p a a i i i 
+p p s s s s s p a a a i p p s s s s s p a a a i
+i i i i i p p s s s a a i i i i i p p s s s a a
+i i p p p p a a a i i s s i i p p p p a a a i i s s
+i i i i i i i i i i a a a a a a a a a a b
+p p p p p a a a a a s s s s s a p p p p p p a a a a a s s s s s a p
+p p i i i i i p p a a a a a s s s s s p p i i i i i p p a a a a a s s s s s
+s s s s s p p p p p a a a a a i i i s s s s s p p p p p a a a a a i i i
+i i i p p p a a a s i i i p p p a a a i i i p p p a a a s i i i p p p a a a
+s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s
+i i i i p p p p p p p a a a a i i i p i i i i p p p p p p p a a a a i i i p
+p p p p p i i i p p p p p a a a a a p p p p p i i i p p p p p a a a a a
+a i a p a i a p a i a p a i a p a i a s a i a p a i a p a i a p a i a p a i a s
+s p s i s a s p s i s a s p s i s a s p s i s a s p s i s a s p s i s a s p s i s a s p s i s a
+i i i i i a a a a a p p p p p s s s s s s s s s s i i i i i a a a a a p p p p p s s s s s s s s s s i i i i i a a a a a p p p p p s s s s s s s s s s b
+b b b b b b b b b b b b b b b b b b b b

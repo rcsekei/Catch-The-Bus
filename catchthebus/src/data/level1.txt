@@ -1,0 +1,9 @@
+ 0r0      00000 
+ 0r0 0rrrrrrrr0 
+ 0r000r000000r0 
+ 0rrrrr000000r0 
+ 00000000rrrrr0 
+ 0rrrrr00r00000 
+ 0r000r00r0    
+  r  0rrrr0     
+  b            
